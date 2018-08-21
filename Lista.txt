@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -10,7 +10,7 @@ Camacho Carbajal, Martín Raúl (175156) ->
 Castillo Kohlsdorf, Rodrigo (218165) ->
 Fernandez Martinez, Santiago (188346) ->
 Francescoli Rocca, Paola (150273) ->
-Fraque Bueri, Danilo (201671) ->
+Fraque Bueri, Danilo (201671) -> danilofraque
 Gallo García, Agustina (200108) ->
 Gallo García, Micaela (200104) ->
 Iriart Córdoba, Mónica Beatriz (76637) ->
